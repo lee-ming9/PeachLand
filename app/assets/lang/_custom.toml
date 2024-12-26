@@ -4,7 +4,7 @@
 title = "피치랜드"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/lee-ming9/PeachLand"
+mediaGitHubURL = "#"
 mediaTwitterURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
